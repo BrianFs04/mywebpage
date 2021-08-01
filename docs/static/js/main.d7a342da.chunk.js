@@ -7,7 +7,6 @@
 		108: function (e, t) {},
 		109: function (e, t) {},
 		114: function (e, t, s) {
-			'use strict';
 			s.r(t);
 			var n = s(0),
 				c = s.n(n),
@@ -586,9 +585,9 @@
 						}),
 					});
 				},
-				S = s.p + 'static/media/PetSpot.30da56a8.png',
-				B = s.p + 'static/media/AirBnB-TheConsole.de10c4c2.png',
-				E = s.p + 'static/media/SmilingSchool1.e9db61c0.png',
+				S = s.p + '../media/PetSpot.30da56a8.png',
+				B = s.p + '../media/AirBnB-TheConsole.de10c4c2.png',
+				E = s.p + '../media/SmilingSchool1.e9db61c0.png',
 				L = function () {
 					var e = [
 						{

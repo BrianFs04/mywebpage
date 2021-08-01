@@ -97,7 +97,7 @@ h6 {
 	padding-left: 130px;
 	width: 100%;
 	height: 100vh;
-	background: url(./static/media/HeroScreen2.60f9935b.png) 100% no-repeat;
+	background: url(../media/HeroScreen2.60f9935b.png) 100% no-repeat;
 	background-size: cover;
 	position: relative;
 }
@@ -129,7 +129,7 @@ h6 {
 @media (max-width: 767px) {
 	#hero {
 		padding-left: 30px;
-		background: url(./static/media/test4.e2aa8aba.png) 0 0 no-repeat;
+		background: url(../media/test4.e2aa8aba.png) 0 0 no-repeat;
 	}
 	#hero h1 {
 		font-size: 44px;
