@@ -585,9 +585,9 @@
 						}),
 					});
 				},
-				S = s.p + '../media/PetSpot.30da56a8.png',
-				B = s.p + '../media/AirBnB-TheConsole.de10c4c2.png',
-				E = s.p + '../media/SmilingSchool1.e9db61c0.png',
+				S = './static/media/PetSpot.30da56a8.png',
+				B = './static/media/AirBnB-TheConsole.de10c4c2.png',
+				E = './static/media/SmilingSchool1.e9db61c0.png',
 				L = function () {
 					var e = [
 						{
@@ -652,7 +652,7 @@
 					});
 				},
 				C = s(30),
-				D = s.p + 'static/media/myresume.7951912c.pdf';
+				D = './static/media/myresume.7951912c.pdf';
 			C.c.GlobalWorkerOptions.workerSrc =
 				'//cdnjs.cloudflare.com/ajax/libs/pdf.js/'.concat(
 					C.c.version,
