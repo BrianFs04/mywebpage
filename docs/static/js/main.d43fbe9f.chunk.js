@@ -1,19 +1,22 @@
 (this['webpackJsonpmy-web-page'] = this['webpackJsonpmy-web-page'] || []).push([
 	[0],
 	{
-		105: function (e, t) {},
-		106: function (e, t) {},
-		107: function (e, t) {},
-		108: function (e, t) {},
-		109: function (e, t) {},
-		114: function (e, t, s) {
+		44: function (e, t) {},
+		67: function (e, t, s) {},
+		78: function (e, t) {},
+		79: function (e, t) {},
+		80: function (e, t) {},
+		81: function (e, t) {},
+		82: function (e, t) {},
+		96: function (e, t, s) {
+			'use strict';
 			s.r(t);
 			var n = s(0),
 				c = s.n(n),
-				i = s(13),
+				i = s(12),
 				a = s.n(i),
-				r = (s(80), s(26)),
-				o = (s(47), s(3)),
+				r = (s(67), s(25)),
+				o = (s(43), s(3)),
 				l = function (e) {
 					var t = e.href,
 						s = e.bx,
@@ -209,7 +212,7 @@
 						})
 					);
 				},
-				b = s(60),
+				b = s(47),
 				m = s.n(b),
 				x = function () {
 					return (
@@ -274,13 +277,13 @@
 							id: 2,
 							classes: 'bx bx-world',
 							title: 'Website:',
-							text: 'herethelink',
+							text: 'here',
 						},
 						{
 							id: 3,
 							classes: 'bx bxs-devices',
 							title: 'Phone:',
-							text: '+57 3114443235',
+							text: '+57 3145015493',
 						},
 						{
 							id: 4,
@@ -304,7 +307,7 @@
 							id: 7,
 							classes: 'bx bx-mail-send',
 							title: 'Email:',
-							text: 'email@email.com',
+							text: 'brianflorezdev@gmail.com',
 						},
 						{
 							id: 8,
@@ -538,11 +541,11 @@
 						}),
 					});
 				},
-				v = s(150),
-				p = s(147),
-				O = s(152),
-				N = s(154),
-				w = s(153),
+				v = s(132),
+				p = s(129),
+				O = s(134),
+				N = s(136),
+				w = s(135),
 				y = Object(p.a)({ root: { maxWidth: 355 } }),
 				k = function (e) {
 					var t = e.title,
@@ -587,8 +590,8 @@
 				},
 				S = './static/media/PetSpot.30da56a8.png',
 				B = './static/media/AirBnB-TheConsole.de10c4c2.png',
-				E = './static/media/SmilingSchool1.e9db61c0.png',
-				L = function () {
+				L = './static/media/SmilingSchool1.e9db61c0.png',
+				E = function () {
 					var e = [
 						{
 							id: 1,
@@ -607,7 +610,7 @@
 						{
 							id: 3,
 							title: 'Smiling School',
-							img: E,
+							img: L,
 							text: 'This project was a basic implementation of a web app using HTML, CSS, Bootstrap, JS and, jQuery. It was an interesting project since it was made starting from a mockup in Figma.',
 							ghLink: 'https://github.com/BrianFs04/holberton-smiling-school-javascript/blob/master/README.md',
 						},
@@ -651,14 +654,14 @@
 						}),
 					});
 				},
-				C = s(30),
-				D = './static/media/myresume.7951912c.pdf';
+				C = s(29),
+				T = './static/media/Dev_BrayanFlorez_CV.7cccfa3c.pdf';
 			C.c.GlobalWorkerOptions.workerSrc =
 				'//cdnjs.cloudflare.com/ajax/libs/pdf.js/'.concat(
 					C.c.version,
 					'/pdf.worker.min.js'
 				);
-			var T = function () {
+			var D = function () {
 					return Object(o.jsx)('section', {
 						id: 'resume',
 						className: 'resume',
@@ -678,7 +681,7 @@
 									className: 'd-none d-md-block',
 									children: Object(o.jsx)(C.a, {
 										className: 'PDFDocument',
-										file: D,
+										file: T,
 										onLoadSuccess: null,
 										children: Object(o.jsx)(C.b, {
 											className: 'PDFPage',
@@ -687,7 +690,7 @@
 											children: Object(o.jsx)('div', {
 												className: 'PDFDownload',
 												children: Object(o.jsxs)('a', {
-													href: 'https://drive.google.com/uc?export=download&id=1uid9ZYQ3IXcuSQZ2XhXNgihEy1n76GYS',
+													href: 'https://drive.google.com/uc?export=download&id=1eJqTa4wSV00wQQUq6K8efnai45dLc3Pt',
 													target: '_blank',
 													rel: 'noreferrer',
 													children: [
@@ -714,7 +717,7 @@
 									children: Object(o.jsx)('div', {
 										className: 'PDFDownloadMD',
 										children: Object(o.jsxs)('a', {
-											href: 'https://drive.google.com/uc?export=download&id=1uid9ZYQ3IXcuSQZ2XhXNgihEy1n76GYS',
+											href: 'https://drive.google.com/uc?export=download&id=1eJqTa4wSV00wQQUq6K8efnai45dLc3Pt',
 											target: '_blank',
 											rel: 'noreferrer',
 											children: [
@@ -733,14 +736,14 @@
 						}),
 					});
 				},
-				A = s(38),
-				P = s(43),
-				_ = s(67),
-				q = s(156),
-				F = s(155),
-				I = s(44),
-				M = s.n(I),
-				R = function () {
+				q = s(34),
+				A = s(39),
+				P = s(54),
+				_ = s(138),
+				F = s(137),
+				M = s(40),
+				R = s.n(M),
+				W = function () {
 					var e = Object(n.useState)({
 							from_email: '',
 							from_name: '',
@@ -751,10 +754,10 @@
 						c = t[1],
 						i = function (e) {
 							c(
-								Object(P.a)(
-									Object(P.a)({}, s),
+								Object(A.a)(
+									Object(A.a)({}, s),
 									{},
-									Object(A.a)(
+									Object(q.a)(
 										{},
 										e.target.name,
 										e.target.value
@@ -765,14 +768,14 @@
 					return Object(o.jsxs)('form', {
 						onSubmit: function (e) {
 							e.preventDefault(),
-								Object(_.a)(
+								Object(P.a)(
 									'service_ljbcari',
 									'template_6wkshlh',
 									s,
 									'user_6K11Tg9j9xYGtVY4wNqHu'
 								)
 									.then(function (e) {
-										M.a.fire({
+										R.a.fire({
 											title: 'Sent',
 											text: "Thanks for your message, you'll receive a reply soon",
 											icon: 'success',
@@ -782,7 +785,7 @@
 										});
 									})
 									.catch(function (e) {
-										M.a.fire({
+										R.a.fire({
 											title: 'Error',
 											text: 'There was an error sending the message, try again later',
 											icon: 'error',
@@ -803,7 +806,7 @@
 								children: [
 									Object(o.jsx)('div', {
 										className: 'col-lg-6',
-										children: Object(o.jsx)(q.a, {
+										children: Object(o.jsx)(_.a, {
 											id: 'outlined-basic',
 											label: 'Your name',
 											variant: 'outlined',
@@ -816,7 +819,7 @@
 									}),
 									Object(o.jsx)('div', {
 										className: 'col-lg-6',
-										children: Object(o.jsx)(q.a, {
+										children: Object(o.jsx)(_.a, {
 											id: 'outlined-basic',
 											label: 'Your email',
 											variant: 'outlined',
@@ -830,7 +833,7 @@
 									}),
 								],
 							}),
-							Object(o.jsx)(q.a, {
+							Object(o.jsx)(_.a, {
 								id: 'outlined-basic',
 								label: 'Your message',
 								variant: 'outlined',
@@ -854,7 +857,7 @@
 						],
 					});
 				},
-				W = function () {
+				I = function () {
 					return Object(o.jsx)('section', {
 						id: 'contact',
 						className: 'contact',
@@ -870,7 +873,7 @@
 								}),
 								Object(o.jsx)('div', {
 									className: 'd-flex flex-column',
-									children: Object(o.jsx)(R, {}),
+									children: Object(o.jsx)(W, {}),
 								}),
 								Object(o.jsxs)('div', {
 									className:
@@ -903,19 +906,19 @@
 						}),
 					});
 				},
-				Y = function () {
+				J = function () {
 					return Object(o.jsxs)('main', {
 						id: 'main',
 						children: [
 							Object(o.jsx)(u, {}),
 							Object(o.jsx)(g, {}),
-							Object(o.jsx)(L, {}),
-							Object(o.jsx)(T, {}),
-							Object(o.jsx)(W, {}),
+							Object(o.jsx)(E, {}),
+							Object(o.jsx)(D, {}),
+							Object(o.jsx)(I, {}),
 						],
 					});
 				},
-				H = function () {
+				z = function () {
 					return Object(o.jsx)('footer', {
 						id: 'footer',
 						children: Object(o.jsxs)('div', {
@@ -938,24 +941,24 @@
 						}),
 					});
 				};
-			var J = function () {
+			var H = function () {
 					return Object(o.jsxs)(o.Fragment, {
 						children: [
 							Object(o.jsx)(j, {}),
 							Object(o.jsx)(x, {}),
-							Object(o.jsx)(Y, {}),
-							Object(o.jsx)(H, {}),
+							Object(o.jsx)(J, {}),
+							Object(o.jsx)(z, {}),
 						],
 					});
 				},
-				z = Boolean(
+				Y = Boolean(
 					'localhost' === window.location.hostname ||
 						'[::1]' === window.location.hostname ||
 						window.location.hostname.match(
 							/^127(?:\.(?:25[0-5]|2[0-4][0-9]|[01]?[0-9][0-9]?)){3}$/
 						)
 				);
-			function X(e, t) {
+			function Q(e, t) {
 				navigator.serviceWorker
 					.register(e)
 					.then(function (e) {
@@ -985,14 +988,14 @@
 						);
 					});
 			}
-			s(112);
-			var Q = s(66),
-				G = s.n(Q);
-			s(113);
-			G.a.init(),
+			s(94);
+			var U = s(53),
+				V = s.n(U);
+			s(95);
+			V.a.init(),
 				a.a.render(
 					Object(o.jsx)(c.a.StrictMode, {
-						children: Object(o.jsx)(J, {}),
+						children: Object(o.jsx)(H, {}),
 					}),
 					document.getElementById('root')
 				),
@@ -1005,7 +1008,7 @@
 							return;
 						window.addEventListener('load', function () {
 							var t = ''.concat('', '/service-worker.js');
-							z
+							Y
 								? (!(function (e, t) {
 										fetch(e, {
 											headers: {
@@ -1030,7 +1033,7 @@
 																);
 															}
 													  )
-													: X(e, t);
+													: Q(e, t);
 											})
 											.catch(function () {
 												console.log(
@@ -1045,14 +1048,12 @@
 											);
 										}
 								  ))
-								: X(t, e);
+								: Q(t, e);
 						});
 					}
 				})();
 		},
-		59: function (e, t) {},
-		80: function (e, t, s) {},
 	},
-	[[114, 1, 2]],
+	[[96, 1, 2]],
 ]);
-//# sourceMappingURL=main.d7a342da.chunk.js.map
+//# sourceMappingURL=main.d43fbe9f.chunk.js.map

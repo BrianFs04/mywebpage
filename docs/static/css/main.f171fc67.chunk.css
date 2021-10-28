@@ -305,6 +305,7 @@ section {
 	border-color: #0563bb !important;
 }
 .MuiInputLabel-outlined.MuiInputLabel-shrink {
+	-webkit-transform: translate(12px, -2px) scale(0.75) !important;
 	transform: translate(12px, -2px) scale(0.75) !important;
 }
 .MuiFormLabel-root.Mui-focused {
@@ -421,4 +422,4 @@ section {
 		text-align: center;
 	}
 }
-/*# sourceMappingURL=main.4a5c4e25.chunk.css.map */
+/*# sourceMappingURL=main.f171fc67.chunk.css.map */
