@@ -13,13 +13,13 @@ const AboutMeSection = () => {
 			id: 2,
 			classes: 'bx bx-world',
 			title: 'Website:',
-			text: 'herethelink',
+			text: 'here',
 		},
 		{
 			id: 3,
 			classes: 'bx bxs-devices',
 			title: 'Phone:',
-			text: '+57 3114443235',
+			text: '+57 3145015493',
 		},
 		{
 			id: 4,
@@ -43,7 +43,7 @@ const AboutMeSection = () => {
 			id: 7,
 			classes: 'bx bx-mail-send',
 			title: 'Email:',
-			text: 'email@email.com',
+			text: 'brianflorezdev@gmail.com',
 		},
 		{
 			id: 8,

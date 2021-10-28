@@ -1,6 +1,6 @@
 import React from 'react';
 import { Document, Page, pdfjs } from 'react-pdf';
-import myResume from '../../../assets/files/myresume.pdf';
+import myResume from '../../../assets/files/Dev_BrayanFlorez_CV.pdf';
 pdfjs.GlobalWorkerOptions.workerSrc = `//cdnjs.cloudflare.com/ajax/libs/pdf.js/${pdfjs.version}/pdf.worker.min.js`;
 
 const ResumeSection = () => {
@@ -19,7 +19,7 @@ const ResumeSection = () => {
 						<Page className='PDFPage' pageNumber={1} width={800}>
 							<div className='PDFDownload'>
 								<a
-									href='https://drive.google.com/uc?export=download&id=1uid9ZYQ3IXcuSQZ2XhXNgihEy1n76GYS'
+									href='https://drive.google.com/uc?export=download&id=1eJqTa4wSV00wQQUq6K8efnai45dLc3Pt'
 									target='_blank'
 									rel='noreferrer'
 								>
@@ -33,7 +33,7 @@ const ResumeSection = () => {
 				<div className='d-flex d-md-none justify-content-center'>
 					<div className='PDFDownloadMD'>
 						<a
-							href='https://drive.google.com/uc?export=download&id=1uid9ZYQ3IXcuSQZ2XhXNgihEy1n76GYS'
+							href='https://drive.google.com/uc?export=download&id=1eJqTa4wSV00wQQUq6K8efnai45dLc3Pt'
 							target='_blank'
 							rel='noreferrer'
 						>
